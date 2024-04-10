@@ -15,6 +15,6 @@
 
 <style>
     h1 {
-        color: red;
+        color: white;
     }
 </style>
